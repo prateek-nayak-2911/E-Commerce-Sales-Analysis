@@ -344,7 +344,8 @@ E-Commerce-Sales-Analysis/
 # 📸 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" alt="E-Commerce Sales Dashboard" width="900">
+  <img width="1041" height="583" alt="image" src="https://github.com/user-attachments/assets/71e39c4e-3046-45bf-865a-8cd0ac1c7202" />
+
 </p>
 
 ---

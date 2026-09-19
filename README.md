@@ -226,9 +226,7 @@ The project includes an interactive dashboard designed to provide a quick overvi
 
 ### Dashboard Preview
 
-> 📸 **<img width="1041" height="583" alt="image" src="https://github.com/user-attachments/assets/b9773288-3e31-4620-9dd2-a6cf2b0b6687" />**
-
-**
+> 📸 **<img width="1171" height="661" alt="image" src="https://github.com/user-attachments/assets/bbc1e255-7fdc-4a44-b064-6c66025a6c30" />**
 
 ```text
 ![E-Commerce Sales Dashboard](images/dashboard.png)

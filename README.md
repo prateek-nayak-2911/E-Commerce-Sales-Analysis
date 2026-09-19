@@ -226,7 +226,7 @@ The project includes an interactive dashboard designed to provide a quick overvi
 
 ### Dashboard Preview
 
-> 📸 **<img width="1041" height="583" alt="image" src="https://github.com/user-attachments/assets/b9773288-3e31-4620-9dd2-a6cf2b0b6687" />
+> 📸 **<img width="1041" height="583" alt="image" src="https://github.com/user-attachments/assets/b9773288-3e31-4620-9dd2-a6cf2b0b6687" />**
 
 **
 
